@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" height="100" src="https://github.com/JNZY/Web-Projects/blob/master/icons/iconBOOTSTRAP.png">
+  <img width="250" height="150" src="https://github.com/JNZY/Web-Projects/blob/master/icons/iconBOOTSTRAP.png">
 </p>
 
 ___
